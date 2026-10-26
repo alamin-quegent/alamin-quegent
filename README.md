@@ -1,8 +1,16 @@
 <div align="center">
 
-Hi there, I'm Al Amin Patwary 👋
-Full-Stack Developer | Frontend Developer Intern at QueGent
-Building responsive web experiences and exploring AI-powered workflow automation.
+
+<div align="center">
+
+  <h1>Hi there, I'm Al Amin Patwary 👋</h1>
+
+  <h2>Full-Stack Developer | Frontend Developer Intern at QueGent</h2>
+
+  <h3>Building responsive web experiences and exploring AI-powered workflow automation.</h3>
+
+</div>
+
 <p>
   <a href="https://github.com/alamin-quegent">
     <img src="https://img.shields.io/badge/GitHub-alamin--quegent-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
